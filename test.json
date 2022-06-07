@@ -2,11 +2,11 @@
   "person":[
      {
        "name": "John",
-       "age": "99"
+       "age": 99
      },
      {
        "name": "Bob",
-       "age": "12"
+       "age": 12
      }
   ]
 }
