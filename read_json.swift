@@ -3,7 +3,7 @@ struct ResponseData: Decodable {
 }
 struct Person : Decodable {
     var name: String
-    var age: String
+    var age: Int
 }
 
 func loadJson(filename fileName: String) -> [Person]? {
